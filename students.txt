@@ -1,0 +1,3 @@
+11,Aashima,20,BE,99|98|97|
+12,Shashank,20,CSE,99|98|96|
+13,parii,21,BECSE,90|97|95|
